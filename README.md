@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Hash Table
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0349-intersection-of-two-arrays) |
 ## Queue
 |  |
 | ------- |
@@ -38,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0387-first-unique-character-in-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
