@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0977-squares-of-a-sorted-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0387-first-unique-character-in-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0434-number-of-segments-in-a-string) |
 | [0482-license-key-formatting](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0482-license-key-formatting) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sorting
 |  |
 | ------- |
