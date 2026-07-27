@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0396-rotate-function) |
 | [0560-subarray-sum-equals-k](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0643-maximum-average-subarray-i) |
 | [0665-non-decreasing-array](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0665-non-decreasing-array) |
 | [0912-sort-an-array](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0912-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0643-maximum-average-subarray-i) |
 ## Simulation
 |  |
 | ------- |
