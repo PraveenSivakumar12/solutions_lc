@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0349-intersection-of-two-arrays) |
+| [0396-rotate-function](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0396-rotate-function) |
 | [0560-subarray-sum-equals-k](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0560-subarray-sum-equals-k) |
 | [0665-non-decreasing-array](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0665-non-decreasing-array) |
 | [0912-sort-an-array](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0912-sort-an-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0292-nim-game) |
+| [0396-rotate-function](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0396-rotate-function) |
 | [0415-add-strings](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0415-add-strings) |
 ## Brainteaser
 |  |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0912-sort-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0396-rotate-function](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0396-rotate-function) |
 <!---LeetCode Topics End-->
