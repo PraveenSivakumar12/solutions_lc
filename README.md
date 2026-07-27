@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0560-subarray-sum-equals-k) |
+| [0912-sort-an-array](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0912-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0977-squares-of-a-sorted-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0349-intersection-of-two-arrays) |
+| [0912-sort-an-array](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0977-squares-of-a-sorted-array) |
 ## Queue
 |  |
@@ -93,4 +95,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0415-add-strings) |
 | [3838-weighted-word-mapping](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/3838-weighted-word-mapping) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
