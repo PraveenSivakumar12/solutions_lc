@@ -126,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0396-rotate-function](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0396-rotate-function) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
