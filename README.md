@@ -133,4 +133,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0175-combine-two-tables) |
 | [0511-game-play-analysis-i](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0511-game-play-analysis-i) |
+| [1068-product-sales-analysis-i](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
