@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0434-number-of-segments-in-a-string) |
 | [0482-license-key-formatting](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0482-license-key-formatting) |
 | [0567-permutation-in-string](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0567-permutation-in-string) |
+| [0984-string-without-aaa-or-bbb](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0984-string-without-aaa-or-bbb) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3838-weighted-word-mapping](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/3838-weighted-word-mapping) |
 ## Sorting
@@ -137,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/1068-product-sales-analysis-i) |
 | [1527-patients-with-a-condition](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/1527-patients-with-a-condition) |
+## Greedy
+|  |
+| ------- |
+| [0984-string-without-aaa-or-bbb](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0984-string-without-aaa-or-bbb) |
 <!---LeetCode Topics End-->
