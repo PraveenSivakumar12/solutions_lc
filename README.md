@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0643-maximum-average-subarray-i) |
 | [0665-non-decreasing-array](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0665-non-decreasing-array) |
+| [0766-toeplitz-matrix](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0766-toeplitz-matrix) |
 | [0833-find-and-replace-in-string](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0833-find-and-replace-in-string) |
 | [0912-sort-an-array](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0912-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -164,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0303-range-sum-query-immutable) |
+## Matrix
+|  |
+| ------- |
+| [0766-toeplitz-matrix](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0766-toeplitz-matrix) |
 <!---LeetCode Topics End-->
