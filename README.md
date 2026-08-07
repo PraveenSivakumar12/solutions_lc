@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0567-permutation-in-string) |
 | [0833-find-and-replace-in-string](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0833-find-and-replace-in-string) |
 | [0984-string-without-aaa-or-bbb](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0984-string-without-aaa-or-bbb) |
+| [1903-largest-odd-number-in-string](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/2000-reverse-prefix-of-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0292-nim-game) |
 | [0396-rotate-function](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0396-rotate-function) |
 | [0415-add-strings](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0415-add-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Brainteaser
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0984-string-without-aaa-or-bbb](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0984-string-without-aaa-or-bbb) |
+| [1903-largest-odd-number-in-string](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
 |  |
