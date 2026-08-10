@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0766-toeplitz-matrix) |
 | [0833-find-and-replace-in-string](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0833-find-and-replace-in-string) |
 | [0912-sort-an-array](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0912-sort-an-array) |
+| [0915-partition-array-into-disjoint-intervals](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0977-squares-of-a-sorted-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
