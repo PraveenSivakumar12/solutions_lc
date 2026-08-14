@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0035-search-insert-position) |
+| [0119-pascals-triangle-ii](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0119-pascals-triangle-ii) |
 | [0217-contains-duplicate](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0349-intersection-of-two-arrays) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0119-pascals-triangle-ii) |
 | [0396-rotate-function](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0396-rotate-function) |
 ## Database
 |  |
