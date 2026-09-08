@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0415-add-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3870-count-commas-in-range](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/3870-count-commas-in-range) |
 ## Brainteaser
 |  |
 | ------- |
