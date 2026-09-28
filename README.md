@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0035-search-insert-position) |
 | [0119-pascals-triangle-ii](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0119-pascals-triangle-ii) |
 | [0217-contains-duplicate](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0396-rotate-function) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0567-permutation-in-string) |
