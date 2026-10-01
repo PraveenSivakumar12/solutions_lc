@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0387-first-unique-character-in-a-string) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0020-valid-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/2000-reverse-prefix-of-word) |
 ## Design
 |  |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0766-toeplitz-matrix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
