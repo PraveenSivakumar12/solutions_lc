@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0977-squares-of-a-sorted-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2574-left-and-right-sum-differences](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/2574-left-and-right-sum-differences) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3838-weighted-word-mapping](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0415-add-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3870-count-commas-in-range](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/3870-count-commas-in-range) |
 ## Brainteaser
 |  |
