@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0567-permutation-in-string) |
 | [0833-find-and-replace-in-string](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0833-find-and-replace-in-string) |
 | [0856-score-of-parentheses](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0984-string-without-aaa-or-bbb](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0984-string-without-aaa-or-bbb) |
 | [1903-largest-odd-number-in-string](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0984-string-without-aaa-or-bbb](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0984-string-without-aaa-or-bbb) |
 | [1903-largest-odd-number-in-string](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2000-reverse-prefix-of-word](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/2000-reverse-prefix-of-word) |
 ## Design
 |  |
@@ -209,4 +212,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
