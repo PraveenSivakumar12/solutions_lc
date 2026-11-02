@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0349-intersection-of-two-arrays) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0344-reverse-string) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0643-maximum-average-subarray-i) |
 ## Simulation
