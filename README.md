@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0434-number-of-segments-in-a-string) |
 | [0482-license-key-formatting](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0482-license-key-formatting) |
+| [0520-detect-capital](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0567-permutation-in-string) |
 | [0833-find-and-replace-in-string](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0833-find-and-replace-in-string) |
 | [0856-score-of-parentheses](https://github.com/PraveenSivakumar12/solutions_lc/tree/master/0856-score-of-parentheses) |
